@@ -43,27 +43,27 @@
 		068EB98415B8A6DF00F96F84 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		068EB98615B8A6DF00F96F84 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		068EB98815B8A6DF00F96F84 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		068EB98C15B8A6DF00F96F84 /* iGitHubTest-Info.plist */ = {isa = PBXFileReference; path = "iGitHubTest-Info.plist"; sourceTree = "<group>"; };
+		068EB98C15B8A6DF00F96F84 /* iGitHubTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iGitHubTest-Info.plist"; sourceTree = "<group>"; };
 		068EB98E15B8A6DF00F96F84 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		068EB99015B8A6DF00F96F84 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		068EB99215B8A6DF00F96F84 /* iGitHubTest-Prefix.pch */ = {isa = PBXFileReference; path = "iGitHubTest-Prefix.pch"; sourceTree = "<group>"; };
-		068EB99315B8A6DF00F96F84 /* iGitHubAppDelegate.h */ = {isa = PBXFileReference; path = iGitHubAppDelegate.h; sourceTree = "<group>"; };
+		068EB99215B8A6DF00F96F84 /* iGitHubTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iGitHubTest-Prefix.pch"; sourceTree = "<group>"; };
+		068EB99315B8A6DF00F96F84 /* iGitHubAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iGitHubAppDelegate.h; sourceTree = "<group>"; };
 		068EB99415B8A6DF00F96F84 /* iGitHubAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iGitHubAppDelegate.m; sourceTree = "<group>"; };
 		068EB99715B8A6DF00F96F84 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		068EB99A15B8A6DF00F96F84 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		068EB99C15B8A6DF00F96F84 /* iGitHubFirstViewController.h */ = {isa = PBXFileReference; path = iGitHubFirstViewController.h; sourceTree = "<group>"; };
+		068EB99C15B8A6DF00F96F84 /* iGitHubFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iGitHubFirstViewController.h; sourceTree = "<group>"; };
 		068EB99D15B8A6DF00F96F84 /* iGitHubFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iGitHubFirstViewController.m; sourceTree = "<group>"; };
 		068EB99F15B8A6DF00F96F84 /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
 		068EB9A115B8A6DF00F96F84 /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
-		068EB9A315B8A6DF00F96F84 /* iGitHubSecondViewController.h */ = {isa = PBXFileReference; path = iGitHubSecondViewController.h; sourceTree = "<group>"; };
+		068EB9A315B8A6DF00F96F84 /* iGitHubSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iGitHubSecondViewController.h; sourceTree = "<group>"; };
 		068EB9A415B8A6DF00F96F84 /* iGitHubSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iGitHubSecondViewController.m; sourceTree = "<group>"; };
 		068EB9A615B8A6DF00F96F84 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		068EB9A815B8A6DF00F96F84 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
 		068EB9AF15B8A6DF00F96F84 /* iGitHubTestTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iGitHubTestTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		068EB9B015B8A6DF00F96F84 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		068EB9B815B8A6DF00F96F84 /* iGitHubTestTests-Info.plist */ = {isa = PBXFileReference; path = "iGitHubTestTests-Info.plist"; sourceTree = "<group>"; };
+		068EB9B815B8A6DF00F96F84 /* iGitHubTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iGitHubTestTests-Info.plist"; sourceTree = "<group>"; };
 		068EB9BA15B8A6DF00F96F84 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		068EB9BC15B8A6DF00F96F84 /* iGitHubTestTests.h */ = {isa = PBXFileReference; path = iGitHubTestTests.h; sourceTree = "<group>"; };
+		068EB9BC15B8A6DF00F96F84 /* iGitHubTestTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iGitHubTestTests.h; sourceTree = "<group>"; };
 		068EB9BD15B8A6DF00F96F84 /* iGitHubTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iGitHubTestTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
